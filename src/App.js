@@ -4,9 +4,9 @@ import React from "react";
 const App = () => {
   return (
     <>
-      <h1 className='title ms-5 mt-3'>BSc (Hons) in Business Information Systems</h1>
+      <h1 className='title mt-3'>BSc (Hons) in Business Information Systems</h1>
       <div className='container'>
-        <div className="row">
+        <div className="row ps-5">
           <table className='table border-5 table-bottom-bordered p-5'>
             <thead>
               <tr>
